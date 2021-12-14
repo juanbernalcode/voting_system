@@ -9,16 +9,49 @@ Con Voting System tendras Democracias al instante
 
 ## En esta App se utilizo como tema principal de desarrollo el uso del Hook "useContext" de la libreria React.js
 
+<<<<<<< HEAD
+### Recomendaciones
+=======
 Context provee una forma de pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel.
+>>>>>>> ca2bea3932036448db88488a4f032a3a8d0ce355
+
+Antes de cualquier uso, es indispensable tener el runtime de ejecucion de Javascript [Node.js](https://nodejs.org/es/) en tu computador, ya con [Node.js](https://nodejs.org/es/) instalado podras seguir la guia de uso.
+
+## Guia de Uso 
+
+1) Clona el repositorio
+
+```sh
+git clone https://github.com/juanbernalcode/voting_system
+```
+
+2) Dirigite a la carpeta donde clonaste el repositorio
+
+```sh
+cd voting_system
+```
+
+3) luego intala las dependecias necesarias para que la App funcione correctamente
+```sh
+npm install
+```
+
+4) para finalizar inicia la aplicacion
+```sh
+npm start
+```
+
+## listo solo abre una pestaña en tu navegador con la url: [http://localhost:3000](http://localhost:3000)
+
+## Disfruta de la App
 
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Contacto
+correo: juanbernalcode@gmail.com
+
+
 
 
