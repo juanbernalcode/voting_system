@@ -9,6 +9,7 @@ Con Voting System tendras Democracias al instante
 
 ## En esta App se utilizo como tema principal de desarrollo el uso del Hook "useContext" de la libreria React.js
 
+Context provee una forma de pasar datos a través del árbol de componentes sin tener que pasar props manualmente en cada nivel.
 
 
 ## Available Scripts
